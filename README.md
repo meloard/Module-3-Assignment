@@ -44,11 +44,11 @@ Creates a random password given the entered criteria.
 
 ## Sources
 
-https://www.youtube.com/watch?v=JheVaV6bPvE&t=1558s
+-https://www.geeksforgeeks.org/java-math-random-method-examples/
 
-https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-push-an-existing-project-to-GitHub
+-https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-push-an-existing-project-to-GitHub
 
-https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-FT-09-2022-U-LOLC#login-pane
+-https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-FT-09-2022-U-LOLC#login-pane
 
 ## License
 
