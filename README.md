@@ -50,6 +50,10 @@ Creates a random password given the entered criteria.
 
 -https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-FT-09-2022-U-LOLC#login-pane
 
+## Credit
+
+-Tutor: Jacob Norden (GA Tech tutoring)
+
 ## License
 
 M1
